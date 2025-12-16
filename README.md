@@ -99,14 +99,6 @@ The notebook produces a **submission CSV** with the following format:
 
 ---
 
-## Future Improvements
-
-* Use **pre-trained audio embeddings** (e.g., wav2vec2 or HuBERT)
-* Combine **text transcription features** with audio features
-* Try **ensemble models** for higher accuracy
-
----
-
 ## Dependencies
 
 * `numpy`
